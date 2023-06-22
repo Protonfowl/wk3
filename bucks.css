@@ -1,0 +1,44 @@
+body{
+    background-color: aqua;
+}
+
+h1 span {
+   color: red;
+}
+
+div.france{
+    width: 50;
+    height: 60vh;
+    background-color: rgba(145, 255, 0, 0.461);
+     background: linear-gradient(90deg, black 30%, yellow 30%, yellow 65%, red 65%);
+    margin-bottom: 20px; 
+}
+  
+
+
+div.belgium{
+    width: 50;
+    height: 60vh;
+    background-color: rgba(0, 17, 255, 0.461);
+     background:  linear-gradient(90deg, blue 30%, white 30%, white 65%, red 65%); 
+    margin-bottom: 20px;
+}
+
+
+div.nigeria{
+    width: 50;
+    height: 60vh;
+    background-color: rgba(0, 17, 255, 0.461);
+    background: linear-gradient(90deg, green 30%, white 30%, white 65%, green 65%);
+    margin-bottom: 20px;
+}
+
+div.ghana{
+    width: 50;
+    height: 60vh;
+    , linear-gradient(180deg, red 30%, yellow 30%, yellow 65%, white 65%);
+    margin-bottom: 20px;
+    background-image: url(./Blackstar_\(Front_Cover\).svg.png), linear-gradient(180deg, red 30%, yellow 30%, yellow 65%, white 65%); 
+    background-position: center, center, right; 
+}
+

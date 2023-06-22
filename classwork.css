@@ -1,0 +1,39 @@
+html{font-size: 20px
+    ;}
+    
+main{width: 80%;
+    background-color: red;
+    color: pink;
+    height: 100%;
+    width: 80%;
+    text-align: center;
+    height: 100%;
+    margin: auto;
+}
+
+h1{text-align: center;
+   padding-left: 2em;
+   padding-top: 2em;
+   padding-bottom: 2em;
+   padding-right: 2em;
+}
+
+div{border-bottom: 10px; 
+    border-style: groove;
+    text-align: left;
+}
+p{font-size: 100px;
+  border-left: 10px; color: blue;
+  border-right: 10px; color: blue;  
+}
+
+img{
+    width: 80%;
+    height: 100%x;
+    background-size: cover;
+    background-color: rgb(128, 52, 134);
+    background-image: url(./MANDELA.jpg);
+}
+
+
+

@@ -1,0 +1,30 @@
+div.ghana{
+    width: 50em;
+    height: 60vh;
+    margin-bottom: 20px;
+    background-image:  url(./blackstar-removebg-preview.png), linear-gradient(180deg, red 30%, yellow 30%, yellow 65%, green 65%); 
+    background-size: 100px, 450px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+div.blend{
+    width: 700px;
+    height: 400px;
+    background-size: cover;
+    background-color: rgb(128, 52, 134);
+    background-image: url(./ronaldo.webp);
+}
+
+.blend:hover{
+    background-blend-mode:overlay;
+    cursor: pointer;
+}
+
+.dfgbucks{
+    background-color: red;
+    background-image: -webkit-radial-gradient(url./blackstar.png);
+    background-size: cover;
+    
+}
